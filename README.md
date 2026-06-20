@@ -52,7 +52,7 @@ HideIT_UAS/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/HideIT_UAS.git
+https://github.com/Maichel-kel/uas-stegano-kripto.git
 ```
 
 ### 2. Masuk ke Folder Project
